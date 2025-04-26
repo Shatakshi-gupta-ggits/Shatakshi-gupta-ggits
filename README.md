@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
-</p>
-
 ## Hi there! Shatakshi Gupta here
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
@@ -13,7 +9,7 @@ Beyond coding, I actively contribute to open-source projects and enjoy collabora
 - 👀 I'm interested in developing scalable SaaS solutions
 - 🌱 I'm currently mastering Java Full Stack Development
 - 💞️ I'm looking to collaborate on open-source projects and tech hackathons
-- 📫 How to reach me: shatakshigupta@example.com (replace with your actual email)
+- 📫 How to reach me: shatakshi.gupta.csd22@ggits.net
 
 ## Languages: 
 
