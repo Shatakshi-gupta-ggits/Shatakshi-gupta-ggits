@@ -1,67 +1,72 @@
-## Hi there! Shatakshi Gupta here
+# Shatakshi Gupta
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShatakshiGupta-blue?style=flat&logo=github)](https://github.com/ShatakshiGupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shatakshi--gupta--24ba68253-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shatakshi-gupta-24ba68253)
+![Profile Views](https://komarev.com/ghpvc/?username=ShatakshiGupta&color=blue)
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-I'm a passionate Full-Stack Developer with expertise in both frontend and backend technologies, currently expanding my skills in Java Full Stack Development. My focus is on creating impactful software solutions that improve user experiences and solve real-world challenges. I'm particularly drawn to building innovative SaaS products that make a difference.
+---
 
-Beyond coding, I actively contribute to open-source projects and enjoy collaborating with fellow developers in hackathons and group projects. I believe in the power of community learning and sharing knowledge to grow together in this ever-evolving tech landscape.
+## Hi there 👋
 
-- 👀 I'm interested in developing scalable SaaS solutions
-- 🌱 I'm currently mastering Java Full Stack Development
+I'm a passionate Full-Stack Developer with expertise in both frontend and backend technologies, currently expanding my skills in Java Full Stack Development. My focus is on creating impactful software solutions that improve user experiences and solve real-world challenges.
+
+- 🌱 I'm currently mastering **Java Full Stack Development**
+- 💬 Ask me about full-stack development or SaaS products
 - 💞️ I'm looking to collaborate on open-source projects and tech hackathons
-- 📫 How to reach me: shatakshi.gupta.csd22@ggits.net
+- 📫 How to reach me: [Email](mailto:shatakshi.gupta.csd22@ggits.net)
 
-## Languages: 
+---
 
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+### Technical Skills
 
-<br clear="left" />
+#### Languages:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 
-## Frontend Technologies:
+#### Frontend:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
-<img align="left" alt="GSAP" width="35px" src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Tailwind" width="35px" src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />
-<img align="left" alt="Bootstrap" width="35px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+#### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose)
 
-<br clear="left" />
+#### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 
-## Backend Technologies:
+#### BaaS:
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat&logo=appwrite)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
-<img align="left" alt="Node.js" width="35px" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" />
-<img align="left" alt="Express" width="35px" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" />
-<img align="left" alt="Spring" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left" alt="Mongoose" width="35px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
+#### Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-<br clear="left" />
+---
 
-## Databases:
-<img align="left" alt="MongoDB" width="35px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
-<img align="left" alt="MySQL" width="35px" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+### GitHub Stats
 
-<br clear="left" />
+![Shatakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShatakshiGupta&show_icons=true&theme=radical)
 
-## Backend-as-a-Service (BaaS):
-<img align="left" alt="Appwrite" width="35px" src="https://icon.icepanel.io/Technology/svg/Appwrite.svg" />
-<img align="left" alt="Firebase" width="35px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiGupta&layout=compact&theme=radical)
 
-<br clear="left"/>
+---
 
-## Design Tools
-<img align="left" alt="Figma" width="35px" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
-<img align="left" alt="Adobe XD" width="35px" src="https://icon.icepanel.io/Technology/svg/Adobe-XD.svg" />
-
-<br clear="left" />
-
-## Other Tools
-<img align="left" alt="Git" width="35px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
-<img align="left" alt="VS Code" width="35px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<img align="left" alt="IntelliJ" width="35px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+### Currently Working On
+- Mastering Java Full Stack Development
+- Building innovative SaaS products
+- Contributing to open-source projects
