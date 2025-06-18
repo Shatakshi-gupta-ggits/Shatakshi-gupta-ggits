@@ -1,5 +1,4 @@
-# Shatakshi Gupta  
-**Fullstack Developer | Web3 Explorer | Open Source Contributor**  
+# Fullstack Developer | Web3 Explorer | Open Source Contributor 
 
 <div align="center">
   <a href="https://github.com/shatakshi-gupta-gqits">
