@@ -6,18 +6,6 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
----
-
-## Hi there 👋
-
-I'm a passionate Full-Stack Developer with expertise in both frontend and backend technologies, currently expanding my skills in Java Full Stack Development. My focus is on creating impactful software solutions that improve user experiences and solve real-world challenges.
-
-- 🌱 I'm currently mastering **Java Full Stack Development**
-- 💬 Ask me about full-stack development or SaaS products
-- 💞️ I'm looking to collaborate on open-source projects and tech hackathons
-- 📫 How to reach me: [Email](mailto:shatakshi.gupta.csd22@ggits.net)
-
----
 
 ### Technical Skills
 
@@ -56,17 +44,9 @@ I'm a passionate Full-Stack Developer with expertise in both frontend and backen
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
----
-
-### GitHub Stats
-
-![Shatakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShatakshiGupta&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiGupta&layout=compact&theme=radical)
-
----
 
 ### Currently Working On
 - Mastering Java Full Stack Development
+- Web3 Tech [Solidity, Etherium, Aptos, Polygon and more..]
 - Building innovative SaaS products
 - Contributing to open-source projects
