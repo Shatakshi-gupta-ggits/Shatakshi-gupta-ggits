@@ -1,7 +1,7 @@
 # Shatakshi Gupta  
 **Frontend Developer | Full-Stack | Web3 & Blockchain**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-shatakshi--gupta--gqits-181717?style=flat&logo=github)](https://github.com/shatakshi-gupta-gqits) 
+[![GitHub](https://img.shields.io/badge/GitHub-shatakshi--gupta--ggits-181717?style=flat&logo=github)](https://github.com/shatakshi-gupta-gqits) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/shatakshil) 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:shatakshig2005@gmail.com)
 
