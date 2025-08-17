@@ -15,9 +15,11 @@
   </a>
 </div>
 
+---
+
 ### 🚀 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,tailwind,nodejs,express,mongodb,postgres,aws,linux,git,figma,docker,spring,threejs,solidity,web3,perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,tailwind,nodejs,express,mongodb,postgres,aws,linux,git,figma,docker,spring,threejs,solidity,web3&perline=6" alt="Tech Stack"/>
 </div>
 
 ---
@@ -43,4 +45,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=500&lines=Building+scalable+web+solutions;Exploring+blockchain+possibilities;Open+to+collaborations!" alt="Typing Animation"/>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shatakshi-gupta-ggits&theme=onedark&rank=SS,S,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shatakshi-gupta-ggits&theme=onedark&rank=SS,S,A&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</div>
