@@ -43,3 +43,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=500&lines=Building+scalable+web+solutions;Exploring+blockchain+possibilities;Open+to+collaborations!" alt="Typing Animation"/>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shatakshi-gupta-ggits&theme=onedark&rank=SS,S,A)](https://github.com/ryo-ma/github-profile-trophy)
+
